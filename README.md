@@ -293,19 +293,6 @@ The project includes:
 - Responsive design testing
 - Form validation testing
 
-## 📊 Evaluation Criteria (100 points)
-
-| Category | Points | Status |
-|----------|--------|--------|
-| Idea and Creativeness | 20 | ✅ 18/20 |
-| Routing + State Management | 15 | ✅ 15/15 |
-| API Integration Quality | 15 | ✅ 13/15 |
-| User/Admin flows | 15 | ✅ 15/15 |
-| UI/UX + Responsiveness | 15 | ✅ 14/15 |
-| Git + README + Deployment | 20 | ✅ 18/20 |
-| **TOTAL** | **100** | **93/100** |
-
-## 👨‍💻 Development
 
 ### Available Scripts
 
